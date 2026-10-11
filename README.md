@@ -35,7 +35,8 @@ Minha trajetória prática é construída através do desenvolvimento de projeto
 > **Stack:** HTML5 Semântico, CSS3 Moderno, JavaScript
 - Landing page institucional de alta performance gastronômica para unidades de shopping.
 - Arquitetura responsiva mobile-first, microinterações e carregamento otimizado.
-- 🔗 **[Visualizar Site ao Vivo](https://super-grill-maria-da-villa.vercel.app)**
+- 🔗 **[Ver site ao vivo →](https://super-grill-maria-da-villa.vercel.app)
+)**
 
 ---
 
