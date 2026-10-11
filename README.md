@@ -41,8 +41,9 @@ Minha trajetória prática é construída através do desenvolvimento de projeto
 
 ### 📬 Onde me encontrar
 
-- 💼 **LinkedIn**: [Adicione o link do seu perfil aqui](www.linkedin.com/in/beatriz-fariass)
-- 🌐 **Portfólio**: [Acesse meu portfólio online](https://bia-farias.github.io/MENTORIA/)
-- ✉️ **E-mail**: [biamaggot65@gmail.com](mailto:biamaggot65@gmail.com)
+- 💼 **LinkedIn**: [Beatriz Farias](https://www.linkedin.com/in/beatriz-fariass)
+
+- 🌐 **Portfólio**: (https://bia-farias.github.io/MENTORIA/)
+- ✉️ **E-mail**: (biamaggot65@gmail.com)
 
 *(Disponível para oportunidades como Desenvolvedora Front-end Júnior ou Estágio em Desenvolvimento)*
