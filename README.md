@@ -18,24 +18,24 @@ Minha trajetória prática é construída através do desenvolvimento de projeto
 
 ### 🚀 Projetos em Destaque
 
-#### ⚡ [Agenda AI — SaaS de Agendamentos & Gestão com IA](https://github.com/Bia-farias/SISTEMA-DE-AGENDAMENTOS)
+#### ⚡ [Agenda AI — SaaS de Agendamentos & Gestão com IA]( https://bia-farias.github.io/sistema-agendamentos/)
 > **Stack:** React 18, TypeScript, Tailwind CSS, Zustand, Vitest, Supabase, Groq AI
 - Sistema SaaS multi-tenant completo para clínicas, salões e profissionais autônomos.
 - Calendário semanal interativo, CRM de clientes com LTV, controle financeiro com DRE/KPIs e automações de mensagens com preview de WhatsApp.
 - **19 testes unitários automatizados** com Vitest e arquitetura limpa com tipagem estrita.
-- 🔗 **[Testar Demonstração Online](https://bia-farias.github.io/SISTEMA-DE-AGENDAMENTOS/)**
+- 🔗 **[Testar Demonstração Online]( https://bia-farias.github.io/sistema-agendamentos/)**
 
 #### 🏦 [Sistema de Conciliação Bancária com IA](https://github.com/Bia-farias/SISTEMA-DE-CONCILIA--O-BANCARIA)
 > **Stack:** JavaScript Moderno, Supabase, Chart.js, OCR & Visão Computacional
 - Motor de reconciliação de transações financeiras com algoritmo de combinação (Subset Sum) e tolerância de divergências.
 - Dashboard gerencial com gráficos analíticos, importação multi-formato e persistência em nuvem com PostgreSQL.
-- 🔗 **[Testar Demonstração Online](https://bia-farias.github.io/SISTEMA-DE-CONCILIA--O-BANCARIA/)**
+- 🔗 **[Testar Demonstração Online]( https://bia-farias.github.io/sistema-conciliacao-bancaria/)**
 
-#### 🔥 [Super Grill Express & Maria da Villa](https://github.com/Bia-farias/SUPER-GRILL---MARIA-DA-VILLA)
+#### 🔥 [Super Grill Express & Maria da Villa](https://super-grill-maria-da-villa.vercel.app/)
 > **Stack:** HTML5 Semântico, CSS3 Moderno, JavaScript
 - Landing page institucional de alta performance gastronômica para unidades de shopping.
 - Arquitetura responsiva mobile-first, microinterações e carregamento otimizado.
-- 🔗 **[Ver site ao vivo →](https://super-grill-maria-da-villa.vercel.app)
+- 🔗 **[Ver site ao vivo →](https://super-grill-maria-da-villa.vercel.app/)
 )**
 
 ---
@@ -44,7 +44,7 @@ Minha trajetória prática é construída através do desenvolvimento de projeto
 
 
 - 💼 **LinkedIn**: [Beatriz Farias](https://www.linkedin.com/in/beatriz-fariass)
-- 🌐 **Portfólio**: [Acesse meu portfólio online](https://bia-farias.github.io/MENTORIA/)
+- 🌐 **Portfólio**: [Acesse meu portfólio online](https://bia-farias.github.io/portfolio-beatriz-farias/)
 - ✉️ **E-mail**: [biamaggot65@gmail.com](mailto:biamaggot65@gmail.com)
 
 *(Disponível para oportunidades como Desenvolvedora Front-end Júnior ou Estágio em Desenvolvimento)*
