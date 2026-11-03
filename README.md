@@ -1,6 +1,6 @@
 # Olá, eu sou a Beatriz Farias 👋
 
-**Desenvolvedora Front-end Júnior** residente em São Paulo - SP, focada na criação de interfaces web modernas, responsivas, performáticas e acessíveis.
+**Desenvolvedora Front-end Júnior** residente em Santo André - SP, focada na criação de interfaces web modernas, responsivas, performáticas e acessíveis.
 
 Minha trajetória prática é construída através do desenvolvimento de projetos reais, aplicando o ecossistema moderno do **React**, **TypeScript**, **JavaScript (ES6+)** e **Tailwind CSS**, integrando produtos a APIs REST, serviços em nuvem (Supabase) e testes automatizados.
 
