@@ -1,19 +1,19 @@
 # Olá, eu sou a Beatriz Farias 👋
 
-**Desenvolvedora Front-end Júnior** residente em Santo André - SP, focada na criação de interfaces web modernas, responsivas, performáticas e acessíveis.
+**Desenvolvedora Full-Stack Júnior** (React / Node.js) residente em Santo André - SP, focada na criação de aplicações completas, desde interfaces modernas e intuitivas até APIs RESTful escaláveis, seguras e testadas.
 
-Minha trajetória prática é construída através do desenvolvimento de projetos reais, aplicando o ecossistema moderno do **React**, **TypeScript**, **JavaScript (ES6+)** e **Tailwind CSS**, integrando produtos a APIs REST, serviços em nuvem (Supabase) e testes automatizados.
+Minha trajetória prática é construída através do desenvolvimento de projetos SaaS reais, utilizando React, TypeScript, Tailwind CSS, Node.js, Express, Prisma ORM e PostgreSQL, com foco em arquitetura limpa, segurança (RBAC, LGPD) e testes automatizados.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas que utilizo no dia a dia
+🛠️ Tecnologias & Ferramentas que utilizo no dia a dia
 
-- **Front-end**: React 18, TypeScript, JavaScript (ES6+), HTML5 Semântico, CSS3 Moderno, Tailwind CSS.
-- **Gerenciamento de Estado & Ferramentas**: Zustand, Context API, Vite, NPM.
-- **Qualidade & Testes**: Vitest, validação estática de tipos, boas práticas de acessibilidade e UI/UX ergonômica.
-- **Back-end & Nuvem (BaaS)**: Integração com Supabase (PostgreSQL / RLS), Node.js, Express, REST APIs.
-- **Versionamento & Deploy**: Git, GitHub, GitHub Actions (CI/CD), Vercel, GitHub Pages.
-
+- Front-end: React 18, TypeScript, JavaScript (ES6+), HTML5 Semântico, CSS3 Moderno, Tailwind CSS.
+- Gerenciamento de Estado & Ferramentas: Zustand, Context API, Vite, NPM.
+- Qualidade & Testes: Vitest, Testes de Integração & Unitários, validação com Zod, tipagem estrita.
+- Back-end & Nuvem: Node.js, Express, TypeScript, Prisma ORM, PostgreSQL (Supabase / RLS), JWT, REST APIs.
+- IA & Inovação: Integração com LLMs (Groq / Llama 3.3), engenharia de prompts e conformidade LGPD.
+- Versionamento & Deploy: Git, GitHub, GitHub Actions (CI/CD), Vercel, GitHub Pages.
 ---
 
 ### 🚀 Projetos em Destaque
