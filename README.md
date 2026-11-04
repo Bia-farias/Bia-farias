@@ -28,7 +28,7 @@ Minha trajetória prática é construída através do desenvolvimento de projeto
 • ERP Financeiro & Operacional: CRM com LTV, controle de contas a pagar/receber, comissões automáticas, estoque e DRE/KPIs.
 • Automação de WhatsApp e IA Groq contextualizada com proteção e mascaramento de dados (LGPD).
 • 133 testes automatizados (29 unitários no Frontend + 104 de integração no Backend) com tipagem estrita e RBAC em 5 níveis.
-• 🔗 Testar Demonstração Online**
+• 🔗 **[Testar Demonstração Online](https://bia-farias.github.io/sistema-agendamentos/)**
 
 #### 🏦 [Sistema de Conciliação Bancária com IA](https://github.com/Bia-farias/SISTEMA-DE-CONCILIA--O-BANCARIA)
 > **Stack:** JavaScript Moderno, Supabase, Chart.js, OCR & Visão Computacional
