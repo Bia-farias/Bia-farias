@@ -18,12 +18,17 @@ Minha trajetória prática é construída através do desenvolvimento de projeto
 
 ### 🚀 Projetos em Destaque
 
-#### ⚡ [Agenda AI — SaaS de Agendamentos & Gestão com IA]( https://bia-farias.github.io/sistema-agendamentos/)
-> **Stack:** React 18, TypeScript, Tailwind CSS, Zustand, Vitest, Supabase, Groq AI
-- Sistema SaaS multi-tenant completo para clínicas, salões e profissionais autônomos.
-- Calendário semanal interativo, CRM de clientes com LTV, controle financeiro com DRE/KPIs e automações de mensagens com preview de WhatsApp.
-- **19 testes unitários automatizados** com Vitest e arquitetura limpa com tipagem estrita.
-- 🔗 **[Testar Demonstração Online]( https://bia-farias.github.io/sistema-agendamentos/)**
+#### ⚡ Agenda AI — SaaS Full-Stack de Agendamentos & Gestão com IA
+
+| Stack: React 18, Node.js, Express, TypeScript, Prisma ORM, PostgreSQL (Supabase), Tailwind CSS, Zustand, Vitest, Groq AI (Llama 3.3)
+
+• Plataforma SaaS Multi-Tenant completa para clínicas, salões de beleza e estabelecimentos de estética.
+• Páginas públicas exclusivas (mini-sites) por assinante: personalização de identidade visual, fotos do ambiente, catálogo de serviços e perfil com portfólio dos profissionais.
+• Motor inteligente de agendamento online: anti-colisão de horários, bloqueio de almoço e agendamento via QR Code e link WhatsApp.
+• ERP Financeiro & Operacional: CRM com LTV, controle de contas a pagar/receber, comissões automáticas, estoque e DRE/KPIs.
+• Automação de WhatsApp e IA Groq contextualizada com proteção e mascaramento de dados (LGPD).
+• 133 testes automatizados (29 unitários no Frontend + 104 de integração no Backend) com tipagem estrita e RBAC em 5 níveis.
+• 🔗 Testar Demonstração Online**
 
 #### 🏦 [Sistema de Conciliação Bancária com IA](https://github.com/Bia-farias/SISTEMA-DE-CONCILIA--O-BANCARIA)
 > **Stack:** JavaScript Moderno, Supabase, Chart.js, OCR & Visão Computacional
