@@ -18,7 +18,7 @@ Minha trajetória prática é construída através do desenvolvimento de projeto
 
 ### 🚀 Projetos em Destaque
 
-#### ⚡ Agenda AI — SaaS Full-Stack de Agendamentos & Gestão com IA
+#### ⚡ [Agenda AI — SaaS Full-Stack de Agendamentos & Gestão com IA](https://github.com/Bia-farias/sistema-agendamentos)
 
 | Stack: React 18, Node.js, Express, TypeScript, Prisma ORM, PostgreSQL (Supabase), Tailwind CSS, Zustand, Vitest, Groq AI (Llama 3.3)
 
