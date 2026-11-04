@@ -1,6 +1,8 @@
 # Olá, eu sou a Beatriz Farias 👋
 
-**Desenvolvedora Full-Stack Júnior** (React / Node.js) residente em Santo André - SP, focada na criação de aplicações completas, desde interfaces modernas e intuitivas até APIs RESTful escaláveis, seguras e testadas.
+**Desenvolvedora Full-Stack Júnior** (React / Node.js) 
+
+Residente em Santo André - SP, focada na criação de aplicações completas, desde interfaces modernas e intuitivas até APIs RESTful escaláveis, seguras e testadas.
 
 Minha trajetória prática é construída através do desenvolvimento de projetos SaaS reais, utilizando React, TypeScript, Tailwind CSS, Node.js, Express, Prisma ORM e PostgreSQL, com foco em arquitetura limpa, segurança (RBAC, LGPD) e testes automatizados.
 
